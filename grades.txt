@@ -1,0 +1,19 @@
+See rubric here: https://bhorowitz.github.io/FinalProjectDescription.pdf
+
+Creativity: 25/25
+
+Notes: An interesting dataset and original analysis. 
+
+Presentation: 23/25
+
+Notes: Fairly pretty graphics, I would say there are almost too many plots that it is hard to focus on any aspect one though. It would have been interesting to go deeper into one topic (say weather delays).
+
+Analysis: 38/40
+
+Notes: Great analysis, with interesting tool to predict flight times. It would have been useful to define a metric or show more analysis of the output of your models (i.e. in what cases does your model perform best, and worst?)
+
+Conclusions and Extensions: 7/10
+
+Notes: Good conclusions, but minimal/no extensions (I'm considering the NN model an "extension" exploration to give you some more points here ;) )
+
+Total: 93/100 Great job!
